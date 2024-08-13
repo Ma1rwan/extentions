@@ -1,13 +1,12 @@
 import os
 from moviepy.editor import VideoFileClip
-from moviepy.video.fx import resize, margin
 
 # Path to the input video file
-video_path = r"C:\Users\black\Downloads\Video\New folder\Fog Stock Footage _ No Copyright Drone Shots _ Royalty free drone shots _ free stock videos.mp4"
+video_path = r"C:\Users\black2\Downloads\Like_click_TikTok_4k_Top3\Like_click_TikTok_4k_Top3\Like_click_TikTok_4k_GS.mp4"
 # Path to the output video file
-output_path = r'final_tiktok_video.mp4'
+output_path = r'D:\videos\likeVideos\like1.mp4'
 
 # Load the video file
-video = VideoFileClip(video_path).subclip(0, 10)
-
+video = VideoFileClip(video_path)
+video= video.subclip(0, 7.2)
 video.write_videofile(output_path, codec='libx264', audio_codec='aac')

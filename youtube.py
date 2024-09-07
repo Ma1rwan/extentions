@@ -2,13 +2,13 @@ import yt_dlp
 import os
 
 # Specify the YouTube video URL
-video_url = 'https://www.youtube.com/watch?v=773JnqsAuGs'
+video_url = 'https://www.youtube.com/watch?v=86aQvxVrcrw'
 
 # Create an instance of yt-dlp with the desired options
 ydl_opts = {
     'format': 'bestvideo+bestaudio/best',  # Download the best quality video and audio
      # 'outtmpl': r'D:\videos\stories\originalStoryVideos\%(title)s.%(ext)s',  # Output file template
-    'outtmpl': r'D:\videos\stories\originalStoryVideos2\%(title)s.%(ext)s',
+    'outtmpl': r'C:\Users\black2\Videos\MEmu Video\%(title)s.%(ext)s',
     'noplaylist': True,  # Ensure only a single video is downloaded
 }
 

@@ -2,7 +2,7 @@ import yt_dlp
 import os
 
 # Specify the YouTube video URL
-video_url = 'https://youtube.com/shorts/mtln0w_oKDc?si=OWUfhium4ZHQpjue'
+video_url = 'https://www.youtube.com/shorts/kIKqr742L1I'
 
 # Create an instance of yt-dlp with the desired options
 ydl_opts = {

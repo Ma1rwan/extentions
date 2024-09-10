@@ -30,9 +30,9 @@ def mp3_to_wav(mp3_file, wav_file):
 
 if __name__ == "__main__":
     # Example usage
-    mp4_file = r"C:\Users\black\Downloads\Video/gvif.mp4"
-    mp3_file = r"C:\Users\black2\Desktop\pygame/sol-101774.mp3"
+    mp4_file = r"C:\Users\black2\Desktop\pygame\Carly Rae Jepsen - Call Me Maybe ｜ Piano Cover by Pianella Piano.webm"
+    mp3_file = r"C:\Users\black2\Desktop\pygame/piano.wav"
     wav_file = r"C:\Users\black2\Desktop\pygame/sol-101774.wav"
 
     #convert_mp4_to_mp3(mp4_file, mp3_file)
-    mp3_to_wav(mp3_file, wav_file)
+    mp3_to_wav(mp4_file, mp3_file)

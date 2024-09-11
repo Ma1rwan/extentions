@@ -7,7 +7,7 @@ def convert_mp4_to_mp3(mp4_file, mp3_file):
 
     # Extract the audio
     audio = video.audio
-    audio = audio.subclip(16, audio.duration)
+    audio = audio.subclip(0, audio.duration)
 
     # Write the audio to a file
     audio.write_audiofile(mp3_file)
@@ -20,7 +20,7 @@ def mp3_to_wav(mp3_file, wav_file):
     audio = AudioFileClip(mp3_file)
 
     # Extract the audio
-    audio = audio.subclip(0.5, audio.duration)
+    audio = audio.subclip(6, audio.duration)
 
     # Write the audio to a file
     audio.write_audiofile(wav_file)
@@ -30,9 +30,9 @@ def mp3_to_wav(mp3_file, wav_file):
 
 if __name__ == "__main__":
     # Example usage
-    mp4_file = r"C:\Users\black2\Desktop\pygame\Carly Rae Jepsen - Call Me Maybe ｜ Piano Cover by Pianella Piano.webm"
+    mp4_file = r"C:\Users\black2\Desktop\pygame\Your Reality - Doki Doki Literature Club! Credits OST Piano Cover.webm"
     mp3_file = r"C:\Users\black2\Desktop\pygame/piano.wav"
-    wav_file = r"C:\Users\black2\Desktop\pygame/sol-101774.wav"
+    wav_file = r"C:\Users\black2\Desktop\pygame/doki.wav"
 
     #convert_mp4_to_mp3(mp4_file, mp3_file)
-    mp3_to_wav(mp4_file, mp3_file)
+    convert_mp4_to_mp3(mp4_file, wav_file)

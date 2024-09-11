@@ -2,13 +2,13 @@ import yt_dlp
 import os
 
 # Specify the YouTube video URL
-video_url = 'https://www.youtube.com/watch?v=W4auGVefufE'
+video_url = 'https://www.youtube.com/shorts/si_ecT73P4M'
 
 # Create an instance of yt-dlp with the desired options
 ydl_opts = {
     'format': 'bestvideo+bestaudio/best',  # Download the best quality video and audio
      # 'outtmpl': r'D:\videos\stories\originalStoryVideos\%(title)s.%(ext)s',  # Output file template
-    'outtmpl': r'C:\Users\black2\Desktop\pygame\%(title)s.%(ext)s',
+    'outtmpl': r'C:\Users\black2\Videos\MEmu Video\%(title)s.%(ext)s',
     'noplaylist': True,  # Ensure only a single video is downloaded
 }
 

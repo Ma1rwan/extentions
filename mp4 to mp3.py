@@ -30,9 +30,9 @@ def mp3_to_wav(mp3_file, wav_file):
 
 if __name__ == "__main__":
     # Example usage
-    mp4_file = r"C:\Users\black2\Desktop\pygame\Your Reality - Doki Doki Literature Club! Credits OST Piano Cover.webm"
-    mp3_file = r"C:\Users\black2\Desktop\pygame/piano.wav"
+    mp4_file = r"C:\Users\black2\Videos\MEmu Video\Travis Scott - FE!N (Lyrics).webm"
+    mp3_file = r"C:\Users\black2\Videos\MEmu Video\Travis Scott - FE!N (Lyrics).mp3"
     wav_file = r"C:\Users\black2\Desktop\pygame/doki.wav"
 
-    #convert_mp4_to_mp3(mp4_file, mp3_file)
-    convert_mp4_to_mp3(mp4_file, wav_file)
+    convert_mp4_to_mp3(mp4_file, mp3_file)
+    #convert_mp4_to_mp3(mp4_file, wav_file)

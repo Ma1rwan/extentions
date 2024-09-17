@@ -30,9 +30,9 @@ def mp3_to_wav(mp3_file, wav_file):
 
 if __name__ == "__main__":
     # Example usage
-    mp4_file = r"C:\Users\black2\Videos\MEmu Video\D4DJ - tiktok meme (FULLHD + FULLSONG).webm"
-    mp3_file = r"C:\Users\black2\Videos\MEmu Video\D4DJ - tiktok meme (FULLHD + FULLSONG).mp3"
-    wav_file = r"C:\Users\black2\Desktop\pygame/doki.wav"
+    mp4_file = r"C:\Users\black2\Videos\MEmu Video\charli xcx - 365 [ sped up ] lyrics.webm"
+    mp3_file = r"C:\Users\black2\Videos\MEmu Video\charli xcx - 365 [ sped up ] lyrics.mp3"
+    #wav_file = r"C:\Users\black2\Desktop\pygame/doki.wav"
 
     convert_mp4_to_mp3(mp4_file, mp3_file)
     #convert_mp4_to_mp3(mp4_file, wav_file)

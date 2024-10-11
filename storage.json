@@ -1,0 +1,38 @@
+{
+    "amazon_titles": [
+        "Extreme Horror - 3 Disc Boxset (Cherry Tree Lane, House of the Devil, Bathory: Countess of Blood) [DVD]",
+        "Wwe: One Last Stand [DVD]"
+    ],
+    "amazon_links": [
+        "https://www.amazon.co.uk//Extreme-Horror-Boxset-Bathory-Countess/dp/B005FG3BT6/ref=sr_1_220?dib=eyJ2IjoiMSJ9.VltLl3g2tDIiAgUxvqXlY5W0PfjjccW9MfU6QV1fP7tcMA1PhVcU4oSeGyVC8Bhfz5JoyiI8AwSusTk0muO6IQR7DU6W_Xjx3eHeQT-y59JnxePBDUvijThIKgekVDDozxgjtVBDpwudmSQddAZdqZOc8BQfKqbMsPdvS5IpJ763UkQ0l6stnpOewDIsYEMaumIUHO5GiBB33306n22vxFx8Ic5qS_hABXHvLIYkTow.tF0vNjIRhL4q-UVXT8Tjv6Dmqn6zaSoiSWZY8sORvXw&dib_tag=se&keywords=dvd&m=A1UFLUL80142N4&qid=1728451350&refinements=p_36%3A3996-4121&rnid=389127011&s=merchant-items&sr=1-220\n",
+        "https://www.amazon.co.uk//WWE-One-Last-Stand-DVD/dp/B004SAIYA6/ref=sr_1_221?dib=eyJ2IjoiMSJ9.VltLl3g2tDIiAgUxvqXlY5W0PfjjccW9MfU6QV1fP7tcMA1PhVcU4oSeGyVC8Bhfz5JoyiI8AwSusTk0muO6IQR7DU6W_Xjx3eHeQT-y59JnxePBDUvijThIKgekVDDozxgjtVBDpwudmSQddAZdqZOc8BQfKqbMsPdvS5IpJ763UkQ0l6stnpOewDIsYEMaumIUHO5GiBB33306n22vxFx8Ic5qS_hABXHvLIYkTow.tF0vNjIRhL4q-UVXT8Tjv6Dmqn6zaSoiSWZY8sORvXw&dib_tag=se&keywords=dvd&m=A1UFLUL80142N4&qid=1728451350&refinements=p_36%3A3996-4121&rnid=389127011&s=merchant-items&sr=1-221\n"
+    ],
+    "webuy_titles": [
+        "Cherry Tree Lane/House of The Devil/Bathory Countess",
+        "WWE - DX: One Last Stand (15) 3 Disc"
+    ],
+    "webuy_links": [
+        "https://uk.webuy.com/product-detail?id=5055002556494&categoryName=DVD-MOVIES&superCatName=FILM-TV&title=&queryID=CFB8F0DF6742B585E6817CDD1804C949&position=1",
+        "https://uk.webuy.com/product-detail?id=5021123142434&categoryName=DVD-SPORT&superCatName=FILM-TV&title=&queryID=67DE043AD65988233FD6366F597E8DDD&position=1"
+    ],
+    "amazon_images": [
+        "images\\reference\\819aHMHncqL._AC_SY445_.jpg",
+        "images\\reference\\91vgHb8KJoL._AC_SY445_.jpg"
+    ],
+    "webuy_images": [
+        "images\\webuy_images\\5055002556494_l.jpg",
+        "images\\webuy_images\\5021123142434_l.jpg"
+    ],
+    "calculated_prices": [
+        39.619800000000005,
+        39.619800000000005
+    ],
+    "product_codes": [
+        "B005FG3BT6",
+        "B004SAIYA6"
+    ],
+    "webuy_prices": [
+        13.0,
+        13.0
+    ]
+}
